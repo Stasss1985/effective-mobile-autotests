@@ -9,7 +9,7 @@
 
 Быстрый старт (локальный запуск)
 1. Клонируйте репозиторий
-git clone <ваш_репозиторий>
+git clone https://github.com/Stasss1985/effective-mobile-autotests
 cd <ваш_проект>
 
 2. Создайте виртуальное окружение
